@@ -16,7 +16,7 @@ Welcome to our model-based testing prototype for TiGL! This project was develope
   - Utilize the GraphWalker tool for automating the execution of formulated test cases.
   - Benefit from the ability to visualize and analyze test coverage with GraphWalker.
 
--**AppleScript/Automator Automation**- 
+- **AppleScript/Automator Automation:**
   - Utilize the Apple Automator tool for automating the execution of formulated test cases.
     
 ## Getting Started
@@ -45,6 +45,5 @@ We welcome feedback, bug reports, and contributions! If you encounter any issues
 # Contact
 
 For any inquiries or assistance, feel free to contact Johannes Simon or Kaan Akbulut.
-E-Mail: kakbulut@smail.uni-koeln.de 
-        johannes.simon@ok.de
+E-Mail: kakbulut@smail.uni-koeln.de  / johannes.simon@ok.de
 
