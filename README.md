@@ -4,16 +4,21 @@
 
 ## Project Overview
 
-Welcome to our model-based testing prototype for TiGL! This project was developed as part of the Software Quality course (Project 9). The goal is to create a model-based testing approach for TiGL, a Titanium Graphical Library commonly used in the aerospace industry for aircraft wing design.
+Welcome to our model-based testing prototype for TiGL! This project was developed as part of the Software Quality course (Project 9). The goal is to create a model-based testing approach for TiGL, a Titanium Graphical Library commonly used in the aerospace industry for aircraft wing design. This repository contains test cases and automation scripts for testing the TiGL Viewer's graphical user interface (GUI) using Model-Based Testing (MBT) and the GraphWalker tool.
 
 ## Features
 
-- **Parametric Modeling:** Explore various wing configurations by defining parameters such as span, sweep, and dihedral angles.
-- **Geometry Generation:** Generate 3D wing surfaces based on user-defined parameters.
-- **Aerodynamic Analysis:** Evaluate aerodynamic performance by analyzing lift, drag, and other key factors.
-- **Structural Analysis:** Assess the structural integrity of wing designs through analysis tools.
-- **Mesh Generation:** Create computational meshes for finite element analysis.
+- **Model-Based Testing (MBT):**
+  - Formulate test cases based on the expected behavior of the TiGL Viewer's GUI.
+  - Ensure comprehensive coverage of GUI interactions through structured test cases.
 
+- **GraphWalker Automation:**
+  - Utilize the GraphWalker tool for automating the execution of formulated test cases.
+  - Benefit from the ability to visualize and analyze test coverage with GraphWalker.
+
+-**AppleScript/Automator Automation**- 
+  - Utilize the Apple Automator tool for automating the execution of formulated test cases.
+    
 ## Getting Started
 
 Follow these steps to set up and run the model-based testing prototype:
@@ -40,3 +45,6 @@ We welcome feedback, bug reports, and contributions! If you encounter any issues
 # Contact
 
 For any inquiries or assistance, feel free to contact Johannes Simon or Kaan Akbulut.
+E-Mail: kakbulut@smail.uni-koeln.de 
+        johannes.simon@ok.de
+
