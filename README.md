@@ -62,11 +62,6 @@ Test the functionality of selecting and rotating a component in the TiGL Viewer.
 
 5. Execute the modified AppleScript using the Script Editor or run it through the terminal.
 
-
-# Model-Based Testing
-
-Our testing approach involves [brief description of the model-based testing method you adopted]. Test scenarios cover [highlight specific aspects covered by the tests].
-
 # Feedback and Contributions
 
 We welcome feedback, bug reports, and contributions! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
@@ -74,5 +69,5 @@ We welcome feedback, bug reports, and contributions! If you encounter any issues
 # Contact
 
 For any inquiries or assistance, feel free to contact Johannes Simon or Kaan Akbulut.
-E-Mail: kakbulut@smail.uni-koeln.de  / johannes.simon@ok.de
+E-Mail: kakbulut@smail.uni-koeln.de / johannes.simon@ok.de
 
