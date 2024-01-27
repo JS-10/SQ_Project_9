@@ -52,20 +52,16 @@ Test the functionality of selecting and rotating a component in the TiGL Viewer.
 - **AppleScript/Automator Automation:**
   - Utilize the Apple Automator tool for automating the execution of formulated test cases.
     
-## Getting Started
+## How to Use
 
-Follow these steps to set up and run the model-based testing prototype:
+1. Clone this repository to your local machine or download the script files.
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [repository_url]
+2. Open the AppleScript files corresponding to the desired test case using the Script Editor on MacOS.
 
-# 1.Installation:
-Ensure you have [dependencies] installed.
-[Additional setup instructions, if any].
+3. Review and modify the script if necessary to match your system configuration.
 
-# 2.Run the Tests:
-Execute [testing command] to run the model-based tests.
+5. Execute the modified AppleScript using the Script Editor or run it through the terminal.
+
 
 # Model-Based Testing
 
