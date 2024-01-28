@@ -69,5 +69,5 @@ We welcome feedback, bug reports, and contributions! If you encounter any issues
 # Contact
 
 For any inquiries or assistance, feel free to contact Johannes Simon or Kaan Akbulut.
-E-Mail: kakbulut@smail.uni-koeln.de / johannes.simon@ok.de
+E-Mail: kakbulut@smail.uni-koeln.de / jsimon10@smail.uni-koeln.de
 
