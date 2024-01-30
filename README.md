@@ -1,10 +1,10 @@
-# SQ_Project_9
-
 # Model-Based Testing Prototype for TiGL
 
-## Project Overview
+This project was developed as part of the course "Software Quality" (Project 9) at the University of Cologne and supervised by Prof. Dr. Michael Felderer.
 
-Welcome to our model-based testing prototype for TiGL! This project was developed as part of the Software Quality course (Project 9). The goal is to create a model-based testing approach for TiGL, a Titanium Graphical Library commonly used in the aerospace industry for aircraft wing design. This repository contains test cases and automation scripts for testing the TiGL Viewer's graphical user interface (GUI) using Model-Based Testing (MBT) and the GraphWalker tool.
+## Purpose
+
+The goal is to create a model-based testing (MBT) approach for TiGL, a Titanium Graphical Library commonly used in the aerospace industry for aircraft wing design. This repository contains test cases and automation scripts for testing the TiGL Viewer's graphical user interface (GUI) using MBT and the MBT tool GraphWalker.
 
 ## Test Cases
 
@@ -46,28 +46,34 @@ Test the functionality of selecting and rotating a component in the TiGL Viewer.
   - Ensure comprehensive coverage of GUI interactions through structured test cases.
 
 - **GraphWalker Automation:**
-  - Utilize the GraphWalker tool for automating the execution of formulated test cases.
+  - Utilize the MBT tool GraphWalker for automating the execution of formulated test cases.
   - Benefit from the ability to visualize and analyze test coverage with GraphWalker.
 
 - **AppleScript/Automator Automation:**
   - Utilize the Apple Automator tool for automating the execution of formulated test cases.
+
+## Requirements
     
-## How to Use
+## Installation
 
-1. Clone this repository to your local machine or download the script files.
+- Clone this repository to your local machine or download the script files.
 
-2. Open the AppleScript files corresponding to the desired test case using the Script Editor on MacOS.
+## Usage
 
-3. Review and modify the script if necessary to match your system configuration.
+1. Open the AppleScript files corresponding to the desired test case using the Script Editor on MacOS.
 
-5. Execute the modified AppleScript using the Script Editor or run it through the terminal.
+2. Review and modify the script if necessary to match your system configuration.
 
-# Feedback and Contributions
+3. Execute the modified AppleScript using the Script Editor or run it through the terminal.
+
+## Feedback and Contributions
 
 We welcome feedback, bug reports, and contributions! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-# Contact
+## Contact
 
-For any inquiries or assistance, feel free to contact Johannes Simon or Kaan Akbulut.
+For any inquiries or assistance, feel free to contact Kaan Akbulut or Johannes Simon.
 E-Mail: kakbulut@smail.uni-koeln.de / jsimon10@smail.uni-koeln.de
 
+## License
+This project is available under the [MIT License](LICENSE).
