@@ -53,6 +53,11 @@ Test the functionality of selecting and rotating a component in the TiGL Viewer.
   - Utilize the Apple Automator tool for automating the execution of formulated test cases.
 
 ## Requirements
+
+- Installed [TiGL](https://github.com/DLR-SC/tigl)
+- macOS with Apple Automator and AppleScript
+- Valid testfile saved on the desktop
+
     
 ## Installation
 
